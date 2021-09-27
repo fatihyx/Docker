@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatihyx
-- 👀 I’m interested in docker
-- 🌱 I’m currently learning yaml
+- 👀 I’m interested in cloud
+- 🌱 I’m currently learning docker
 
 <!---
 fatihyx/fatihyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
